@@ -8,6 +8,7 @@ body {
 header {
   margin: 0 auto;
   width: 1000px;
+  background-image: url("../images/flag.jpg");
 }
 
 header h1 {
@@ -38,10 +39,13 @@ nav {
   width: 1000px;
   padding: 5px 0;
   text-align: center;
+  background-color: #65668c;
+  border: 3px solid #2a3178;
 }
 
 nav a {
   margin: 0 35px;
+  color: #2a3178;
 }
 
 .floatright {
