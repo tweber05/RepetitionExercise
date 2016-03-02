@@ -3,6 +3,7 @@
 
 body {
   margin: 0;
+  background-color: #b9b4b5;
 }
 
 header {
@@ -15,18 +16,21 @@ header h1 {
   text-align: center;
   margin: 0;
   padding-top: .25em;
+  color: white;
 }
 
 header h2 {
   text-align: center;
   margin: 0;
   padding-bottom: 1em;
+  color: white;
 }
 
 h3 {
   margin: 0;
   margin-top: 10px;
   margin-bottom: 5px;
+  color: #2a3178;
 }
 
 p {
@@ -57,4 +61,5 @@ nav a {
   margin: 0 auto;
   width: 1000px;
   padding: 5px 15px;
+  background-color: #b9b4b5;
 }
